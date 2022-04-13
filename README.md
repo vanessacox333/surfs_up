@@ -6,8 +6,13 @@ Potential investor W. Avy wants more information about temperature trends before
 *Figure 1. Descriptive statistics of June temperatures on Oahu.*
 ![](Resources/june_temp.png)
 
+
+
+
 *Figure 2. Descriptive statistics of December temperatures on Oahu.*
 ![](Resources/dec_temp.png)
+
+
 
 
 * The average temperature in June on Oahu based on the data is 74.94 deg. F and the average temperature in December is 71.04 deg. F.
